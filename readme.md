@@ -25,3 +25,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+## Sumber
+Terimakasih untuk Mastah Code yang sudah memberikan tutorialnya membuat user role dan multi login Laravel
+sumber url : https://mastahcode.com/screencast/tutorial-laravel-membuat-multi-login-authentification-dan-hak-akses-acl-by-waviq/laravel-membuat-multi-login-authentification-dan-hak-akses-role-acl-membuat-tabel-dan-modelnya-7sa
